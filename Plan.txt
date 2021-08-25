@@ -1,10 +1,10 @@
 # search 
-linear search
-binary search
-jump search
-interpolation search
-exponential search
-ternary search
+linear search 单纯for循环
+binary search 折半for循环
+jump search 每隔math.sqrt循环
+interpolation search 插值 通过mid=low+(key-a[low])/(a[high]-a[low])*(high-low) 来查位置
+exponential search 指数 索引2^0 2^1 去查
+ternary search 折3分for循环
 
 # sort
 selection sort
@@ -18,5 +18,5 @@ counting sort
 bucket sort
 
 # data structure
-LRU
+LRU LinkedHashMap的removeEldestEntry
 LFU
