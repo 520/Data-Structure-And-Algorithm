@@ -1,0 +1,22 @@
+# search 
+linear search
+binary search
+jump search
+interpolation search
+exponential search
+ternary search
+
+# sort
+selection sort
+bubble sort
+insertion sort
+merge sort
+heap sort
+quick sort
+radix sort
+counting sort 
+bucket sort
+
+# data structure
+LRU
+LFU
